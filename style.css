@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #000000;
+  }
+  
+  header {
+    background-color: #664545;
+    color: #fff;
+    padding: 10px 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 5px;
+    list-style: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .about h2 {
+    margin-top: 0;
+  }
+  
+  .about p {
+    margin-bottom: 20px;
+  }
+  
+  .why-programming h3 {
+    margin-top: 0;
+  }
+  
+  .courses h2 {
+    margin-top: 0;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .course-img {
+    margin-right: 20px;
+  }
+  
+  .course-img img {
+    max-width: 80%;
+  }
+  
+  .course-info h3 {
+    margin-top: 0;
+  }
+  
+  .course-info p {
+    margin-bottom: 10px;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #ac1818;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .btn:hover {
+    background-color: #666;
+  }
+  
+  footer {
+    background-color: #a08181;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+  }
+  
